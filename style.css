@@ -1,0 +1,81 @@
+body{
+    display: flex;
+    background: #e4f7c7;
+    margin: 20px 50px;
+}
+.barra-izquierda{
+    height: 30vh;
+}
+.caja-entrada{
+    text-align: center;
+    font-size: 2rem;
+    width: 400px;
+    margin: 2rem;
+    color: #0a3871;
+    background: #e4f7c7;
+    border: #e4f7c7;
+  }
+.barra-derecha{
+    margin-left: 70px;
+    background: #0a3871;
+}
+.barra-lateral {
+    background-color: white;
+    border: solid 1px #ddd;
+    border-radius: 1rem;
+    margin: 1rem;
+    padding: 1rem;
+    min-height: 320px;
+    color: #495057;
+    margin-top: 10vh;
+    width: 380px;
+    height: 420;
+  }
+.advertencia{
+    margin-top: 40vh;
+    margin-left: 140px;
+}
+.boton-codi{
+    margin-left: 55px;
+    width: 28vh;
+    height: 4vh;
+    color: white;
+    background-color: #0a3871;
+    border-color: #0a3871;
+    border-radius: 1rem;
+}
+.boton-deco{
+    width: 28vh;
+    height: 4vh;
+    color: white;
+    background-color: #0a3871;
+    border-color: #0a3871;
+    border-radius: 1rem;
+
+}
+#imagen{
+    margin-block-start: auto;
+    margin-left: 14vh;
+}
+#textos{
+
+        margin-top: 10vh;
+        text-align: left;
+
+}
+#caja-salida{
+    width: 380px;
+
+}
+.boton-copiar{
+    margin-top: 14vh; 
+    width: 28vh;
+    height: 4vh;
+    margin-left: 135px;
+    color: black;
+    background-color: #a0f88e;
+    border-color: #a0f88e;
+    border-radius: 1rem;
+
+}
+
